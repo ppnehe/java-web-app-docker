@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Hello Unnati , Welcome all from PRADEEP NEHE </h2>
+			<h2>Hello Everybody, Welcome all from PRADEEP NEHE </h2>
 			<h3>Contact Cell +44-7585663435 Email : ppnehe@gmail.com </h3>
 		</div>	
 	</div>
